@@ -1,0 +1,1 @@
+Viewing the 3rd notebook on Github will not display the maps. You can see them by viewing it nbviewer: https://nbviewer.jupyter.org/github/jimcole23/TorontoNeighborhoods/blob/ce866dc2d7737d751723f5b0509d20f701f585f5/Toronto%20Neighborhoods%20Part%203.ipynb
